@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T12:03:07.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" version="17.1.3" etag="K0Koeh3ZtiANaWqoOt_b" type="github"><diagram id="5zACA7rvERgF-gTNpysh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T15:52:05.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="2g6eM1IqSrLSCcchifXL" version="17.1.3" type="github">
+  <diagram id="5zACA7rvERgF-gTNpysh" name="Page-1">
+    <mxGraphModel dx="3816" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-31" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-10" target="t7S9JoXh1MYTAIhFtJRv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-10" value="Health Progress" style="rounded=1;fillColor=none;fontFamily=Lucida Console;textDirection=ltr;labelBorderColor=none;strokeWidth=2;perimeterSpacing=2;fontStyle=1;fontColor=#000000;horizontal=1;whiteSpace=wrap;html=1;spacingLeft=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="315" y="98" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-12" value="Production Progress" style="rounded=1;fillColor=none;fontFamily=Lucida Console;textDirection=ltr;labelBorderColor=none;strokeWidth=2;perimeterSpacing=2;fontStyle=1;fontColor=#000000;horizontal=1;whiteSpace=wrap;html=1;spacingLeft=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="108" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;jumpStyle=none;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="498" as="targetPoint" />
+            <mxPoint x="690" y="498" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="498" />
+              <mxPoint x="600" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="498" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="498" />
+              <mxPoint x="1090" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-13" value="&lt;p style=&quot;line-height: 0.8; font-size: 22px;&quot;&gt;Deterrence&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0.8; font-size: 22px;&quot;&gt;Disease&lt;/p&gt;&lt;p style=&quot;line-height: 0.8; font-size: 22px;&quot;&gt;Disaster&lt;/p&gt;&lt;p style=&quot;line-height: 0.8; font-size: 22px;&quot;&gt;Accidents&lt;/p&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.89;shadow=1;labelBorderColor=none;fontFamily=Verdana;fontSize=22;strokeWidth=2;fillColor=none;labelPosition=center;align=center;strokeColor=#0e8088;sketch=0;spacingTop=21;" vertex="1" parent="1">
+          <mxGeometry x="654" y="280" width="380" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-14" target="t7S9JoXh1MYTAIhFtJRv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;startArrow=classicThin;startFill=0;shape=flexArrow;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-14" target="t7S9JoXh1MYTAIhFtJRv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-14" value="Sanitary&lt;br style=&quot;font-size: 22px;&quot;&gt;Healthcare&lt;br style=&quot;font-size: 22px;&quot;&gt;Food Cycles" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0],[1,0.75],[0.75,1],[0.25,1],[0.02,1],[0,0.21]];polyline=0;shadow=0;labelBorderColor=none;sketch=0;fontFamily=Verdana;fontSize=22;strokeWidth=2;fillColor=none;gradientDirection=north;perimeterSpacing=2;labelPosition=center;align=center;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="295" y="728" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-15" target="t7S9JoXh1MYTAIhFtJRv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-32" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-15" target="t7S9JoXh1MYTAIhFtJRv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-15" value="Meat Production&lt;br style=&quot;font-size: 22px;&quot;&gt;Rabbit Production&lt;br style=&quot;font-size: 22px;&quot;&gt;Breeding" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,1],[0.75,1],[0.25,1],[0,0.75],[0,0.01]];polyline=0;shadow=0;labelBorderColor=none;sketch=0;fontFamily=Verdana;fontSize=22;strokeWidth=2;fillColor=none;gradientDirection=north;perimeterSpacing=2;labelPosition=center;align=center;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="728" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-18" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 22px;&quot;&gt;Medicine Supply&lt;br style=&quot;font-size: 22px;&quot;&gt;Food Supply&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBorderColor=none;fontFamily=Lucida Console;fontSize=22;strokeWidth=3;fillColor=none;strokeColor=#d79b00;labelPosition=center;align=center;textDirection=ltr;fontStyle=0;perimeterSpacing=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="423" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-34" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=22;fontColor=#000000;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="t7S9JoXh1MYTAIhFtJRv-20" target="t7S9JoXh1MYTAIhFtJRv-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1768" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-20" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 22px;&quot;&gt;Food Supply&lt;br style=&quot;font-size: 22px;&quot;&gt;Breeding Periods&lt;br style=&quot;font-size: 22px;&quot;&gt;Identification&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBorderColor=none;fontFamily=Lucida Console;fontSize=22;strokeWidth=3;fillColor=none;strokeColor=#d79b00;labelPosition=center;align=center;textDirection=ltr;fontStyle=0;perimeterSpacing=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="420" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-21" value="Moderator&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;Population" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;shadow=1;labelBorderColor=none;sketch=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="400" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="t7S9JoXh1MYTAIhFtJRv-22" value="Medicine Effectiveness&lt;br style=&quot;font-size: 22px;&quot;&gt;Vitamins&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;shadow=1;labelBorderColor=none;sketch=1;fontFamily=Verdana;fontSize=22;fontColor=#000000;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="125" y="380" width="190" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
