@@ -1,20 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T16:00:24.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="FlqfFVKYGXfHOkJf7oRk" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T08:09:27.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="upTT-D6_IPRQUewpnc0w" version="20.0.1" type="github">
   <diagram id="QOWadQsl_J4P6_I2JHrh" name="Page-1">
-    <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RFpofgzgelrwcWHgkq2O-20" value="Web Application Rabbitry Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="190" height="190" as="geometry" />
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-20" target="RFpofgzgelrwcWHgkq2O-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RFpofgzgelrwcWHgkq2O-22" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-7" value="Authorization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0SpSyb91d0gf3rnnzAn-5">
+          <mxGeometry x="-0.2894" y="-18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-20" target="RFpofgzgelrwcWHgkq2O-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFpofgzgelrwcWHgkq2O-20" value="Web Application Rabbitry Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="370" y="370" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-22" target="RFpofgzgelrwcWHgkq2O-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-12" value="Rabbitry Records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0SpSyb91d0gf3rnnzAn-1">
+          <mxGeometry x="-0.1807" y="-18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-22" target="RFpofgzgelrwcWHgkq2O-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.5882352941178" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-6" value="Login Credential" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0SpSyb91d0gf3rnnzAn-4">
+          <mxGeometry x="0.1697" y="50" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFpofgzgelrwcWHgkq2O-22" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RFpofgzgelrwcWHgkq2O-24" value="Records" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="710" y="600" width="120" height="120" as="geometry" />
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-24" target="RFpofgzgelrwcWHgkq2O-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RFpofgzgelrwcWHgkq2O-26" value="Web Application Rabbitry Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="480" y="750" width="190" height="190" as="geometry" />
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-10" value="User Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0SpSyb91d0gf3rnnzAn-9">
+          <mxGeometry x="-0.1265" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0SpSyb91d0gf3rnnzAn-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.33;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RFpofgzgelrwcWHgkq2O-24" target="RFpofgzgelrwcWHgkq2O-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFpofgzgelrwcWHgkq2O-24" value="Backend" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="630" y="610" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
